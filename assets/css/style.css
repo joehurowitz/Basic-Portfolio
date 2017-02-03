@@ -1,0 +1,72 @@
+body {
+
+ background-color: hsl(180, 29%, 80%); 
+/*background-image: url("assets/images/seamless_paper_texture.png");*/
+
+
+
+
+}
+
+#aboutMe {
+	
+	margin-right: 700px;
+	background-color: #ffffff;
+
+}
+
+#connect{
+height: 200px;	
+margin-left: 700px;
+margin-right: 200px;
+background-color: white;
+
+
+}
+
+p
+{
+margin :auto;
+
+}
+
+.styledFont
+{
+	margin :auto;
+	color: #777777;
+	font: Helvetica;
+	font-size: 100%;
+}
+
+h1 {
+	font-size: 150%;
+	color: #4aaaa5;
+}
+
+h2 {
+font-size: 110%;	
+color: #4aaaa5;
+
+}
+#footer {
+	height: 100px;
+	
+	background-color: #666666;
+}
+
+#header {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+	
