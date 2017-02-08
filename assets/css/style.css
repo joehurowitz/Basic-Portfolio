@@ -3,59 +3,120 @@ body {
  background-color: hsl(180, 29%, 80%); 
 /*background-image: url("assets/images/seamless_paper_texture.png");*/
 
+}
 
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+		}
 
+li{
+	float: right;
+}
+
+li a {
+    display: block;
+    color: green;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+#name{
+
+	border:1px solid #eee;
+	float left;
+	height: 100px;
+	width: 33.3%
+	padding:20px;
+	background: #4aaaa5;
+	margin-right: 800px;
 
 }
 
+
+
 #aboutMe {
-	
-	margin-right: 700px;
+	/*border: 1px solid black;*/
+	margin-top: 20px;
+	/*margin-right: 25px;*/
 	background-color: #ffffff;
+	/*margin-left: 75px;*/
+	float: left;
+	width: 50%;
+	padding: 5px;
+	height: 50%;
+	margin-bottom: 25px;
+	
+
 
 }
 
 #connect{
-height: 200px;	
-margin-left: 700px;
-margin-right: 200px;
+	
+height: 75%;	
+/*margin-left: 20px;*/
+margin-right: 50px;
+margin-top: 20px;
 background-color: white;
+float: right;
+width: 25%;
+padding:50px;
+margin-bottom: 25px;
+
 
 
 }
 
-p
-{
-margin :auto;
 
-}
 
 .styledFont
 {
-	margin :auto;
+	
 	color: #777777;
 	font: Helvetica;
 	font-size: 100%;
 }
 
 h1 {
-	font-size: 150%;
-	color: #4aaaa5;
+	font-size: 200%;
+	color: white;
 }
 
 h2 {
-font-size: 110%;	
+font-size: 150%;	
 color: #4aaaa5;
+
+
+}
+
+h3{font-size: 130%;
+text-align: center;
+color: #4aaaa5;
+
+
 
 }
 #footer {
-	height: 100px;
 	
-	background-color: #666666;
+	clear:both;
+	padding: 20px;
+	background: #666;
+	border: 10px solid #4aaaa5;
+	
+	/*background-color: #666666;*/
 }
 
-#header {
+.footerFont{
+color: white;
+}
 
+input [type=Message] {
+
+	height: 100px;
 }
 
 
