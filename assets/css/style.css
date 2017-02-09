@@ -1,9 +1,11 @@
 body {
 
- background-color: hsl(180, 29%, 80%); 
+ /*background-color: hsl(180, 29%, 80%); */
 /*background-image: url("assets/images/seamless_paper_texture.png");*/
 
 }
+
+
 
 	ul {
     list-style-type: none;

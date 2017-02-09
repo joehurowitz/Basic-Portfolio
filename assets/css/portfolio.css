@@ -1,0 +1,61 @@
+.PageTop{
+
+display: inline-block;
+
+}
+
+
+
+#Portfolio{
+	margin-top: 20px;
+	margin-right: 120px;
+	background-color: #ffffff;
+	/*margin-left: 75px;*/
+	float: left;
+	width: 25%;
+	padding: 100px;
+	height: 50%;
+	margin-bottom: 25px;
+
+}
+
+.image1{
+	position: relative;
+	width: 100%;
+}
+/*.image2{
+position: relative;
+	width: 100%;
+
+}
+.image3{
+position: relative;
+	width: 100%;
+
+}
+.image4{
+position: relative;
+	width: 100%;
+
+}*/
+
+
+
+
+
+h4{
+	position: absolute;
+	top: 200px;
+	left: 0;
+	width: 100%;
+}
+
+h4 span {
+
+color:white;
+font: bold 24px/45px Helvetica, Sans-Serif;
+letter-spacing: -1px;
+background: rgb(0,0,0);
+background: rgba(0,0,0,0.7);
+padding: 10px;
+}
